@@ -1,0 +1,50 @@
+[{
+  "name":"Max",
+  "age":12,
+  "sex":"女",
+  "birth":"2010-01-01",
+  "address":"霍金斯"
+},
+{
+  "name":"Dustin",
+  "age":12,
+  "sex":"男",
+  "birth":"2010-02-02",
+  "address":"霍金斯"
+},
+{
+  "name":" Nancy",
+  "age":16,
+  "sex":"女",
+  "birth":"2010-03-03",
+  "address":"霍金斯"
+},
+{
+  "name":"Steve",
+  "age":16,
+  "sex":"男",
+  "birth":"2010-04-04",
+  "address":"有游泳池的大豪宅"
+},
+{
+  "name":"Will",
+  "age":15,
+  "sex":"男",
+  "birth":"2008-05-05",
+  "address":"大魔王的楼上"
+},
+{
+  "name":"Robbin",
+  "age":18,
+  "sex":"女",
+  "birth":"2010-06-06",
+  "address":"水手冰淇淋店"
+},
+{
+  "name":"el",
+  "age":14,
+  "sex":"女",
+  "birth":"2010-07-07",
+  "address":"PaPa的实验室"
+},
+]
